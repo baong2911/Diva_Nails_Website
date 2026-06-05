@@ -1,5 +1,10 @@
-# Author: Bao H. Nguyen - LinkedIn: https://www.linkedin.com/in/bao-hong-gia-nguyen/
-# Diva Nails Website
+## Author
+
+Designed and developed by **Bao H. Nguyen**.
+
+- LinkedIn: [Bao Hong Gia Nguyen](https://www.linkedin.com/in/bao-hong-gia-nguyen/)
+
+- # Diva Nails Website
 
 A professional static website for **Diva Nails**, a luxury nail salon in Santa Cruz, California. The website is built with simple front-end technologies and can run locally or on any static web server.
 
